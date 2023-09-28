@@ -13,14 +13,14 @@ Insights-
    * The distribution of investments shows that while some investors are highly active, others are less involved in funding start-ups.
   
 3. Visual Representation of Start-ups by Top 5 Countries and Theme
-   *The top 5 countries with the most start-ups are US, China, India, UK and Canada with 67 start-ups in US.
-   *Different countries exhibit varying preferences for themes, reflecting regional strengths and interests.
+   * The top 5 countries with the most start-ups are US, China, India, UK and Canada with 67 start-ups in US.
+   * Different countries exhibit varying preferences for themes, reflecting regional strengths and interests.
 
 4. Packed Bubble Chart for Start-up Stages
-   *The packed bubble chart visually represents the distribution of start-ups across different stages.
-   *Later Stage has the highest number of start-ups, indicating a significant focus on growth in the start-up ecosystem.
-   *Growth Stage also have notable representation, but they are comparatively smaller.
+   * The packed bubble chart visually represents the distribution of start-ups across different stages.
+   * Later Stage has the highest number of start-ups, indicating a significant focus on growth in the start-up ecosystem.
+   * Growth Stage also have notable representation, but they are comparatively smaller.
 
 5. Z-score Calculation for Investment Data
-   *Z-scores help identify extreme values in investment metrics.
-   *
+   * Z-scores help identify extreme values in investment metrics.
+   * Data points with Z-scores equal to or greater than 3.5 indicate outliers in the data.
