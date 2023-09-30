@@ -29,4 +29,4 @@ Insights-
   * This chart clearly shows that the most of the startups are in the fiels of Technology & Communications.
 
 7. Geographical Distribution of Startups on a Map:
-  *This map visualization helps identify startup clusters in different regions. It can inform decisions about expanding or targeting specific geographical markets.
+  * This map visualization helps identify startup clusters in different regions. It can inform decisions about expanding or targeting specific geographical markets.
