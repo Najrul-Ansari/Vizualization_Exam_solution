@@ -1,5 +1,5 @@
 # Vizualization_Exam_solution
-Tableau public link for the vizualization - https://public.tableau.com/app/profile/najrul.ansari/viz/VizExam/Dashboard1?publish=yes
+Tableau public link for the vizualization - https://public.tableau.com/app/profile/najrul.ansari/viz/VizExam/Story1?publish=yes
 
 Insights-
 1. Top 10 Start-up Themes
@@ -24,3 +24,9 @@ Insights-
 5. Z-score Calculation for Investment Data
   * Z-scores help identify extreme values in investment metrics.
   * Data points with Z-scores equal to or greater than 3.5 indicate outliers in the data.
+
+6. Theme-Sector Intensity Heatmap
+  * This chart clearly shows that the most of the startups are in the fiels of Technology & Communications.
+
+7. Geographical Distribution of Startups on a Map:
+  *This map visualization helps identify startup clusters in different regions. It can inform decisions about expanding or targeting specific geographical markets.
